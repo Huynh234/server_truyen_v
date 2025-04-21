@@ -1,0 +1,350 @@
+[
+  {
+    "ContainingType": "server_truyen_v.Controllers.CommentController",
+    "Method": "del",
+    "RelativePath": "api/Comment/delete-comment/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.CommentController",
+    "Method": "getAllC",
+    "RelativePath": "api/Comment/get-all-comment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.CommentController",
+    "Method": "insertC",
+    "RelativePath": "api/Comment/insert-comment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fc",
+        "Type": "server_truyen_v.Schemas.formComsent",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.CommentController",
+    "Method": "updateComment",
+    "RelativePath": "api/Comment/update-comment",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fc",
+        "Type": "server_truyen_v.Schemas.formComsent",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.DetailStoryController",
+    "Method": "deleteDStory",
+    "RelativePath": "api/DetailStory/delete-detailstory/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.DetailStoryController",
+    "Method": "getAllDStory",
+    "RelativePath": "api/DetailStory/get-all-detailstory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.DetailStoryController",
+    "Method": "getAllChapter",
+    "RelativePath": "api/DetailStory/get-chapter/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.DetailStoryController",
+    "Method": "getDStory",
+    "RelativePath": "api/DetailStory/get-detailstory/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.DetailStoryController",
+    "Method": "updateViewPut",
+    "RelativePath": "api/DetailStory/update-view/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.DetailStoryController",
+    "Method": "UploadFile",
+    "RelativePath": "api/DetailStory/upload/{id}/{stt}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "stt",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.LoginController",
+    "Method": "login",
+    "RelativePath": "api/Login/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "use",
+        "Type": "server_truyen_v.Schemas.formLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.ServiceStotyController",
+    "Method": "getyop_type_v",
+    "RelativePath": "api/ServiceStoty/get-statistic/top-type-view",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.ServiceStotyController",
+    "Method": "getyop_v",
+    "RelativePath": "api/ServiceStoty/get-statistic/top-view",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.ServiceStotyController",
+    "Method": "getytotal",
+    "RelativePath": "api/ServiceStoty/get-statistic/total-type",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.StoryController",
+    "Method": "deleteStory",
+    "RelativePath": "api/Story/delete-story/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.StoryController",
+    "Method": "filterStory",
+    "RelativePath": "api/Story/filter-story/{search}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "search",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.StoryController",
+    "Method": "findStory",
+    "RelativePath": "api/Story/find-Story/{search}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "search",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.StoryController",
+    "Method": "getTopStory",
+    "RelativePath": "api/Story/get-top-view/{limit}/{type}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "limit",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.StoryController",
+    "Method": "getType",
+    "RelativePath": "api/Story/get-type",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.StoryController",
+    "Method": "getAllStory",
+    "RelativePath": "api/Story/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "shortChar",
+        "Type": "System.Nullable\u00601[[System.Char, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.StoryController",
+    "Method": "inSert",
+    "RelativePath": "api/Story/inserts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "st",
+        "Type": "server_truyen_v.Schemas.formStory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.StoryController",
+    "Method": "updateNoS",
+    "RelativePath": "api/Story/update-story",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fus",
+        "Type": "server_truyen_v.Schemas.formUpdateStory",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

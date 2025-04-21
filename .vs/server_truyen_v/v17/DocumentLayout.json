@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|d:\\c#\\ma_nguon_mo\\server_truyen_v\\controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|solutionrelative:controllers\\storycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|d:\\c#\\ma_nguon_mo\\server_truyen_v\\services\\servicestory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|solutionrelative:services\\servicestory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|d:\\c#\\ma_nguon_mo\\server_truyen_v\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|d:\\c#\\ma_nguon_mo\\server_truyen_v\\models\\storys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|solutionrelative:models\\storys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|d:\\c#\\ma_nguon_mo\\server_truyen_v\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|solutionrelative:models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|d:\\c#\\ma_nguon_mo\\server_truyen_v\\models\\detailstory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|solutionrelative:models\\detailstory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|d:\\c#\\ma_nguon_mo\\server_truyen_v\\schemas\\formcomsent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|solutionrelative:schemas\\formcomsent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|d:\\c#\\ma_nguon_mo\\server_truyen_v\\services\\detailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|solutionrelative:services\\detailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|d:\\c#\\ma_nguon_mo\\server_truyen_v\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|d:\\c#\\ma_nguon_mo\\server_truyen_v\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|d:\\c#\\ma_nguon_mo\\server_truyen_v\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|d:\\c#\\ma_nguon_mo\\server_truyen_v\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|d:\\c#\\ma_nguon_mo\\server_truyen_v\\services\\storystatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|solutionrelative:services\\storystatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|d:\\c#\\ma_nguon_mo\\server_truyen_v\\controllers\\servicestotycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D671062B-B88E-492C-9EA4-D13BB3A32405}|server_truyen_v.csproj|solutionrelative:controllers\\servicestotycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoryController.cs",
+              "DocumentMoniker": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Controllers\\StoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StoryController.cs",
+              "ToolTip": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Controllers\\StoryController.cs",
+              "RelativeToolTip": "Controllers\\StoryController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswHkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:51:28.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:49:16.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceStory.cs",
+              "DocumentMoniker": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Services\\ServiceStory.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceStory.cs",
+              "ToolTip": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Services\\ServiceStory.cs",
+              "RelativeToolTip": "Services\\ServiceStory.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAYwMgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:45:21.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Models\\Comments.cs",
+              "RelativeDocumentMoniker": "Models\\Comments.cs",
+              "ToolTip": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Models\\Comments.cs",
+              "RelativeToolTip": "Models\\Comments.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:42:48.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailStory.cs",
+              "DocumentMoniker": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Models\\DetailStory.cs",
+              "RelativeDocumentMoniker": "Models\\DetailStory.cs",
+              "ToolTip": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Models\\DetailStory.cs",
+              "RelativeToolTip": "Models\\DetailStory.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA6wCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:40:49.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "formComsent.cs",
+              "DocumentMoniker": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Schemas\\formComsent.cs",
+              "RelativeDocumentMoniker": "Schemas\\formComsent.cs",
+              "ToolTip": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Schemas\\formComsent.cs",
+              "RelativeToolTip": "Schemas\\formComsent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:40:44.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailService.cs",
+              "DocumentMoniker": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Services\\DetailService.cs",
+              "RelativeDocumentMoniker": "Services\\DetailService.cs",
+              "ToolTip": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Services\\DetailService.cs",
+              "RelativeToolTip": "Services\\DetailService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:40:30.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T06:57:57.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Storys.cs",
+              "DocumentMoniker": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Models\\Storys.cs",
+              "RelativeDocumentMoniker": "Models\\Storys.cs",
+              "ToolTip": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Models\\Storys.cs",
+              "RelativeToolTip": "Models\\Storys.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA6wDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:56:58.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T08:49:31.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:47:35.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
+              "ToolTip": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "Controllers\\CommentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:21:35.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StoryStatisticsService.cs",
+              "DocumentMoniker": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Services\\StoryStatisticsService.cs",
+              "RelativeDocumentMoniker": "Services\\StoryStatisticsService.cs",
+              "ToolTip": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Services\\StoryStatisticsService.cs",
+              "RelativeToolTip": "Services\\StoryStatisticsService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:15:30.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceStotyController.cs",
+              "DocumentMoniker": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Controllers\\ServiceStotyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceStotyController.cs",
+              "ToolTip": "D:\\C#\\ma_nguon_mo\\server_truyen_v\\Controllers\\ServiceStotyController.cs",
+              "RelativeToolTip": "Controllers\\ServiceStotyController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T14:08:36.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
