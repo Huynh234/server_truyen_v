@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("server_truyen_v")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61b6326dede9c33165164c0f78d03f74d747604a")]
 [assembly: System.Reflection.AssemblyProductAttribute("server_truyen_v")]
 [assembly: System.Reflection.AssemblyTitleAttribute("server_truyen_v")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

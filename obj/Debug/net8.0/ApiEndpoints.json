@@ -333,6 +333,16 @@
   },
   {
     "ContainingType": "server_truyen_v.Controllers.StoryController",
+    "Method": "GetTopStoriesByComments",
+    "RelativePath": "api/Story/top-by-comments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "server_truyen_v.Controllers.StoryController",
     "Method": "updateNoS",
     "RelativePath": "api/Story/update-story",
     "HttpMethod": "PUT",
